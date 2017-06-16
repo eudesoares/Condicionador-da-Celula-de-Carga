@@ -1,0 +1,8 @@
+1x	AO	ina188
+1x	AO	LM1458
+1x	R	500ohm
+2x	R	53kohm
+1x	R	47kohm
+1x	R	27kohm
+2x	c	100NF
+10x	Pin Head
